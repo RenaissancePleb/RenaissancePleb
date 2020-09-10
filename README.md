@@ -8,7 +8,6 @@
 
 <a href="https://www.linkedin.com/in/steven-kerr-014b19133/"> My LinkedIn profile </a>
 
-<br />
 
 #### Public Repositories
 
