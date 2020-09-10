@@ -6,11 +6,6 @@
 
 <br />
 
-
-<img align="left" alt="Steven's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-
-
 <a href="https://www.linkedin.com/in/steven-kerr-014b19133/"> My LinkedIn profile </a>
 
 <br />
