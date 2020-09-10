@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/steven-kerr-014b19133/"> My LinkedIn profile </a>
 
 
-#### Public Repositories
+## Public Repositories
 
 - OSIC Pulmonary Fibrosis Progression - A Kaggle challenge that uses a convolutional neural network to predict clinical variables from a CT image of patients' lungs
 
